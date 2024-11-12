@@ -1,13 +1,13 @@
 //
-//  practiceUITestsLaunchTests.swift
-//  practiceUITests
+//  _______UITestsLaunchTests.swift
+//  背景画像の変更UITests
 //
-//  Created by mac on 2024/11/10.
+//  Created by mac on 2024/11/12.
 //
 
 import XCTest
 
-final class practiceUITestsLaunchTests: XCTestCase {
+final class _______UITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

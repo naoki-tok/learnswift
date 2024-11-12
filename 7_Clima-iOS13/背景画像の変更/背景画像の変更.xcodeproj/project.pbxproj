@@ -7,62 +7,62 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		0494EC8D2CE092AC00799DCE /* PBXContainerItemProxy */ = {
+		04D9407F2CE38E01001B20D4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 0494EC742CE092AA00799DCE /* Project object */;
+			containerPortal = 04D940662CE38DFF001B20D4 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 0494EC7B2CE092AA00799DCE;
-			remoteInfo = practice;
+			remoteGlobalIDString = 04D9406D2CE38DFF001B20D4;
+			remoteInfo = "背景画像の変更";
 		};
-		0494EC972CE092AC00799DCE /* PBXContainerItemProxy */ = {
+		04D940892CE38E01001B20D4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 0494EC742CE092AA00799DCE /* Project object */;
+			containerPortal = 04D940662CE38DFF001B20D4 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 0494EC7B2CE092AA00799DCE;
-			remoteInfo = practice;
+			remoteGlobalIDString = 04D9406D2CE38DFF001B20D4;
+			remoteInfo = "背景画像の変更";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0494EC7C2CE092AA00799DCE /* practice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = practice.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		0494EC8C2CE092AC00799DCE /* practiceTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = practiceTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		0494EC962CE092AC00799DCE /* practiceUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = practiceUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		04D9406E2CE38DFF001B20D4 /* 背景画像の変更.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "背景画像の変更.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		04D9407E2CE38E01001B20D4 /* 背景画像の変更Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "背景画像の変更Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		04D940882CE38E01001B20D4 /* 背景画像の変更UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "背景画像の変更UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		0494EC7E2CE092AA00799DCE /* practice */ = {
+		04D940702CE38DFF001B20D4 /* 背景画像の変更 */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = practice;
+			path = "背景画像の変更";
 			sourceTree = "<group>";
 		};
-		0494EC8F2CE092AC00799DCE /* practiceTests */ = {
+		04D940812CE38E01001B20D4 /* 背景画像の変更Tests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = practiceTests;
+			path = "背景画像の変更Tests";
 			sourceTree = "<group>";
 		};
-		0494EC992CE092AC00799DCE /* practiceUITests */ = {
+		04D9408B2CE38E01001B20D4 /* 背景画像の変更UITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = practiceUITests;
+			path = "背景画像の変更UITests";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		0494EC792CE092AA00799DCE /* Frameworks */ = {
+		04D9406B2CE38DFF001B20D4 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		0494EC892CE092AC00799DCE /* Frameworks */ = {
+		04D9407B2CE38E01001B20D4 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		0494EC932CE092AC00799DCE /* Frameworks */ = {
+		04D940852CE38E01001B20D4 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -72,22 +72,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		0494EC732CE092AA00799DCE = {
+		04D940652CE38DFF001B20D4 = {
 			isa = PBXGroup;
 			children = (
-				0494EC7E2CE092AA00799DCE /* practice */,
-				0494EC8F2CE092AC00799DCE /* practiceTests */,
-				0494EC992CE092AC00799DCE /* practiceUITests */,
-				0494EC7D2CE092AA00799DCE /* Products */,
+				04D940702CE38DFF001B20D4 /* 背景画像の変更 */,
+				04D940812CE38E01001B20D4 /* 背景画像の変更Tests */,
+				04D9408B2CE38E01001B20D4 /* 背景画像の変更UITests */,
+				04D9406F2CE38DFF001B20D4 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		0494EC7D2CE092AA00799DCE /* Products */ = {
+		04D9406F2CE38DFF001B20D4 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0494EC7C2CE092AA00799DCE /* practice.app */,
-				0494EC8C2CE092AC00799DCE /* practiceTests.xctest */,
-				0494EC962CE092AC00799DCE /* practiceUITests.xctest */,
+				04D9406E2CE38DFF001B20D4 /* 背景画像の変更.app */,
+				04D9407E2CE38E01001B20D4 /* 背景画像の変更Tests.xctest */,
+				04D940882CE38E01001B20D4 /* 背景画像の変更UITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,134 +95,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0494EC7B2CE092AA00799DCE /* practice */ = {
+		04D9406D2CE38DFF001B20D4 /* 背景画像の変更 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0494ECA02CE092AC00799DCE /* Build configuration list for PBXNativeTarget "practice" */;
+			buildConfigurationList = 04D940922CE38E01001B20D4 /* Build configuration list for PBXNativeTarget "背景画像の変更" */;
 			buildPhases = (
-				0494EC782CE092AA00799DCE /* Sources */,
-				0494EC792CE092AA00799DCE /* Frameworks */,
-				0494EC7A2CE092AA00799DCE /* Resources */,
+				04D9406A2CE38DFF001B20D4 /* Sources */,
+				04D9406B2CE38DFF001B20D4 /* Frameworks */,
+				04D9406C2CE38DFF001B20D4 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				0494EC7E2CE092AA00799DCE /* practice */,
+				04D940702CE38DFF001B20D4 /* 背景画像の変更 */,
 			);
-			name = practice;
+			name = "背景画像の変更";
 			packageProductDependencies = (
 			);
-			productName = practice;
-			productReference = 0494EC7C2CE092AA00799DCE /* practice.app */;
+			productName = "背景画像の変更";
+			productReference = 04D9406E2CE38DFF001B20D4 /* 背景画像の変更.app */;
 			productType = "com.apple.product-type.application";
 		};
-		0494EC8B2CE092AC00799DCE /* practiceTests */ = {
+		04D9407D2CE38E01001B20D4 /* 背景画像の変更Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0494ECA32CE092AC00799DCE /* Build configuration list for PBXNativeTarget "practiceTests" */;
+			buildConfigurationList = 04D940952CE38E01001B20D4 /* Build configuration list for PBXNativeTarget "背景画像の変更Tests" */;
 			buildPhases = (
-				0494EC882CE092AC00799DCE /* Sources */,
-				0494EC892CE092AC00799DCE /* Frameworks */,
-				0494EC8A2CE092AC00799DCE /* Resources */,
+				04D9407A2CE38E01001B20D4 /* Sources */,
+				04D9407B2CE38E01001B20D4 /* Frameworks */,
+				04D9407C2CE38E01001B20D4 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				0494EC8E2CE092AC00799DCE /* PBXTargetDependency */,
+				04D940802CE38E01001B20D4 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				0494EC8F2CE092AC00799DCE /* practiceTests */,
+				04D940812CE38E01001B20D4 /* 背景画像の変更Tests */,
 			);
-			name = practiceTests;
+			name = "背景画像の変更Tests";
 			packageProductDependencies = (
 			);
-			productName = practiceTests;
-			productReference = 0494EC8C2CE092AC00799DCE /* practiceTests.xctest */;
+			productName = "背景画像の変更Tests";
+			productReference = 04D9407E2CE38E01001B20D4 /* 背景画像の変更Tests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		0494EC952CE092AC00799DCE /* practiceUITests */ = {
+		04D940872CE38E01001B20D4 /* 背景画像の変更UITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0494ECA62CE092AC00799DCE /* Build configuration list for PBXNativeTarget "practiceUITests" */;
+			buildConfigurationList = 04D940982CE38E01001B20D4 /* Build configuration list for PBXNativeTarget "背景画像の変更UITests" */;
 			buildPhases = (
-				0494EC922CE092AC00799DCE /* Sources */,
-				0494EC932CE092AC00799DCE /* Frameworks */,
-				0494EC942CE092AC00799DCE /* Resources */,
+				04D940842CE38E01001B20D4 /* Sources */,
+				04D940852CE38E01001B20D4 /* Frameworks */,
+				04D940862CE38E01001B20D4 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				0494EC982CE092AC00799DCE /* PBXTargetDependency */,
+				04D9408A2CE38E01001B20D4 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				0494EC992CE092AC00799DCE /* practiceUITests */,
+				04D9408B2CE38E01001B20D4 /* 背景画像の変更UITests */,
 			);
-			name = practiceUITests;
+			name = "背景画像の変更UITests";
 			packageProductDependencies = (
 			);
-			productName = practiceUITests;
-			productReference = 0494EC962CE092AC00799DCE /* practiceUITests.xctest */;
+			productName = "背景画像の変更UITests";
+			productReference = 04D940882CE38E01001B20D4 /* 背景画像の変更UITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		0494EC742CE092AA00799DCE /* Project object */ = {
+		04D940662CE38DFF001B20D4 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1610;
 				LastUpgradeCheck = 1610;
 				TargetAttributes = {
-					0494EC7B2CE092AA00799DCE = {
+					04D9406D2CE38DFF001B20D4 = {
 						CreatedOnToolsVersion = 16.1;
 					};
-					0494EC8B2CE092AC00799DCE = {
+					04D9407D2CE38E01001B20D4 = {
 						CreatedOnToolsVersion = 16.1;
-						TestTargetID = 0494EC7B2CE092AA00799DCE;
+						TestTargetID = 04D9406D2CE38DFF001B20D4;
 					};
-					0494EC952CE092AC00799DCE = {
+					04D940872CE38E01001B20D4 = {
 						CreatedOnToolsVersion = 16.1;
-						TestTargetID = 0494EC7B2CE092AA00799DCE;
+						TestTargetID = 04D9406D2CE38DFF001B20D4;
 					};
 				};
 			};
-			buildConfigurationList = 0494EC772CE092AA00799DCE /* Build configuration list for PBXProject "practice" */;
+			buildConfigurationList = 04D940692CE38DFF001B20D4 /* Build configuration list for PBXProject "背景画像の変更" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 0494EC732CE092AA00799DCE;
+			mainGroup = 04D940652CE38DFF001B20D4;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 0494EC7D2CE092AA00799DCE /* Products */;
+			productRefGroup = 04D9406F2CE38DFF001B20D4 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0494EC7B2CE092AA00799DCE /* practice */,
-				0494EC8B2CE092AC00799DCE /* practiceTests */,
-				0494EC952CE092AC00799DCE /* practiceUITests */,
+				04D9406D2CE38DFF001B20D4 /* 背景画像の変更 */,
+				04D9407D2CE38E01001B20D4 /* 背景画像の変更Tests */,
+				04D940872CE38E01001B20D4 /* 背景画像の変更UITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		0494EC7A2CE092AA00799DCE /* Resources */ = {
+		04D9406C2CE38DFF001B20D4 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		0494EC8A2CE092AC00799DCE /* Resources */ = {
+		04D9407C2CE38E01001B20D4 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		0494EC942CE092AC00799DCE /* Resources */ = {
+		04D940862CE38E01001B20D4 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -232,21 +232,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		0494EC782CE092AA00799DCE /* Sources */ = {
+		04D9406A2CE38DFF001B20D4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		0494EC882CE092AC00799DCE /* Sources */ = {
+		04D9407A2CE38E01001B20D4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		0494EC922CE092AC00799DCE /* Sources */ = {
+		04D940842CE38E01001B20D4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -256,20 +256,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		0494EC8E2CE092AC00799DCE /* PBXTargetDependency */ = {
+		04D940802CE38E01001B20D4 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 0494EC7B2CE092AA00799DCE /* practice */;
-			targetProxy = 0494EC8D2CE092AC00799DCE /* PBXContainerItemProxy */;
+			target = 04D9406D2CE38DFF001B20D4 /* 背景画像の変更 */;
+			targetProxy = 04D9407F2CE38E01001B20D4 /* PBXContainerItemProxy */;
 		};
-		0494EC982CE092AC00799DCE /* PBXTargetDependency */ = {
+		04D9408A2CE38E01001B20D4 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 0494EC7B2CE092AA00799DCE /* practice */;
-			targetProxy = 0494EC972CE092AC00799DCE /* PBXContainerItemProxy */;
+			target = 04D9406D2CE38DFF001B20D4 /* 背景画像の変更 */;
+			targetProxy = 04D940892CE38E01001B20D4 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		0494EC9E2CE092AC00799DCE /* Debug */ = {
+		04D940902CE38E01001B20D4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -332,7 +332,7 @@
 			};
 			name = Debug;
 		};
-		0494EC9F2CE092AC00799DCE /* Release */ = {
+		04D940912CE38E01001B20D4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -388,14 +388,14 @@
 			};
 			name = Release;
 		};
-		0494ECA12CE092AC00799DCE /* Debug */ = {
+		04D940932CE38E01001B20D4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"practice/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"背景画像の変更/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -408,7 +408,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "-.practice";
+				PRODUCT_BUNDLE_IDENTIFIER = "-.-------";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -416,14 +416,14 @@
 			};
 			name = Debug;
 		};
-		0494ECA22CE092AC00799DCE /* Release */ = {
+		04D940942CE38E01001B20D4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"practice/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"背景画像の変更/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -436,7 +436,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "-.practice";
+				PRODUCT_BUNDLE_IDENTIFIER = "-.-------";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -444,7 +444,7 @@
 			};
 			name = Release;
 		};
-		0494ECA42CE092AC00799DCE /* Debug */ = {
+		04D940962CE38E01001B20D4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -453,16 +453,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "-.practiceTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "-.-------Tests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/practice.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/practice";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/背景画像の変更.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/背景画像の変更";
 			};
 			name = Debug;
 		};
-		0494ECA52CE092AC00799DCE /* Release */ = {
+		04D940972CE38E01001B20D4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -471,87 +471,87 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "-.practiceTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "-.-------Tests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/practice.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/practice";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/背景画像の変更.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/背景画像の変更";
 			};
 			name = Release;
 		};
-		0494ECA72CE092AC00799DCE /* Debug */ = {
+		04D940992CE38E01001B20D4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "-.practiceUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "-.-------UITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = practice;
+				TEST_TARGET_NAME = "背景画像の変更";
 			};
 			name = Debug;
 		};
-		0494ECA82CE092AC00799DCE /* Release */ = {
+		04D9409A2CE38E01001B20D4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "-.practiceUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "-.-------UITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = practice;
+				TEST_TARGET_NAME = "背景画像の変更";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0494EC772CE092AA00799DCE /* Build configuration list for PBXProject "practice" */ = {
+		04D940692CE38DFF001B20D4 /* Build configuration list for PBXProject "背景画像の変更" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				0494EC9E2CE092AC00799DCE /* Debug */,
-				0494EC9F2CE092AC00799DCE /* Release */,
+				04D940902CE38E01001B20D4 /* Debug */,
+				04D940912CE38E01001B20D4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0494ECA02CE092AC00799DCE /* Build configuration list for PBXNativeTarget "practice" */ = {
+		04D940922CE38E01001B20D4 /* Build configuration list for PBXNativeTarget "背景画像の変更" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				0494ECA12CE092AC00799DCE /* Debug */,
-				0494ECA22CE092AC00799DCE /* Release */,
+				04D940932CE38E01001B20D4 /* Debug */,
+				04D940942CE38E01001B20D4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0494ECA32CE092AC00799DCE /* Build configuration list for PBXNativeTarget "practiceTests" */ = {
+		04D940952CE38E01001B20D4 /* Build configuration list for PBXNativeTarget "背景画像の変更Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				0494ECA42CE092AC00799DCE /* Debug */,
-				0494ECA52CE092AC00799DCE /* Release */,
+				04D940962CE38E01001B20D4 /* Debug */,
+				04D940972CE38E01001B20D4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0494ECA62CE092AC00799DCE /* Build configuration list for PBXNativeTarget "practiceUITests" */ = {
+		04D940982CE38E01001B20D4 /* Build configuration list for PBXNativeTarget "背景画像の変更UITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				0494ECA72CE092AC00799DCE /* Debug */,
-				0494ECA82CE092AC00799DCE /* Release */,
+				04D940992CE38E01001B20D4 /* Debug */,
+				04D9409A2CE38E01001B20D4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 0494EC742CE092AA00799DCE /* Project object */;
+	rootObject = 04D940662CE38DFF001B20D4 /* Project object */;
 }

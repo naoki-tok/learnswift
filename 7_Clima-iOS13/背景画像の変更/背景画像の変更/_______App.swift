@@ -1,14 +1,14 @@
 //
-//  practiceApp.swift
-//  practice
+//  _______App.swift
+//  背景画像の変更
 //
-//  Created by mac on 2024/11/10.
+//  Created by mac on 2024/11/12.
 //
 
 import SwiftUI
 
 @main
-struct practiceApp: App {
+struct _______App: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

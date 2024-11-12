@@ -1,13 +1,13 @@
 //
-//  practiceUITests.swift
-//  practiceUITests
+//  _______UITests.swift
+//  背景画像の変更UITests
 //
-//  Created by mac on 2024/11/10.
+//  Created by mac on 2024/11/12.
 //
 
 import XCTest
 
-final class practiceUITests: XCTestCase {
+final class _______UITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
