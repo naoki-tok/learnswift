@@ -17,6 +17,7 @@ class WeatherViewController: UIViewController {
     @IBOutlet weak var searchField: UITextField!
     @IBOutlet weak var background: UIImageView!
     
+    
     //MARK: Properties
     var weatherManager = WeatherDataManager()
     let locationManager = CLLocationManager()
@@ -84,7 +85,7 @@ extension WeatherViewController: WeatherManagerDelegate {
             self.conditionImageView.image = UIImage(systemName: weatherModel.conditionName)
             if cityLabel.text=="Tokyo"{
                 self.background.image=UIImage(named:"backgroundTokyo")
-            }else{
+                }else{
                 self.background.image=UIImage(named:"background")
             }
         }
