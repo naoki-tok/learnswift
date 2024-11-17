@@ -83,10 +83,10 @@ extension WeatherViewController: WeatherManagerDelegate {
             temperatureLabel.text = weatherModel.temperatureString
             cityLabel.text = weatherModel.cityName
             self.conditionImageView.image = UIImage(systemName: weatherModel.conditionName)
-            if cityLabel.text=="Tokyo"{
-                self.background.image=UIImage(named:"backgroundTokyo")
-                }else{
-                self.background.image=UIImage(named:"background")
+            if cityLabel.text == "Tokyo" {
+                self.background.image = UIImage(named:"backgroundTokyo")
+                } else {
+                self.background.image = UIImage(named:"background")
             }
         }
     }
