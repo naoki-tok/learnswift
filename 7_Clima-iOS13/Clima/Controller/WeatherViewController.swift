@@ -10,6 +10,7 @@ import UIKit
 import CoreLocation
 
 class WeatherViewController: UIViewController {
+    
 
     @IBOutlet weak var conditionImageView: UIImageView!
     @IBOutlet weak var temperatureLabel: UILabel!
@@ -17,6 +18,13 @@ class WeatherViewController: UIViewController {
     @IBOutlet weak var searchField: UITextField!
     @IBOutlet weak var background: UIImageView!
     
+    //お気に入りボタンの遷移
+    @IBAction func favoriteView(_ sender: UIButton) {
+        let vc = SecondViewController()
+        navigationController?.pushViewController(vc, animated: true)
+        
+        
+    }
     
     //MARK: Properties
     var weatherManager = WeatherDataManager()
@@ -28,7 +36,17 @@ class WeatherViewController: UIViewController {
         locationManager.delegate = self
         weatherManager.delegate = self
         searchField.delegate = self
-    }
+        
+        
+        //navigationバーの設定
+        self.navigationItem.backBarButtonItem = UIBarButtonItem(
+                title:  " ",
+                style:  .plain,
+                target: nil,
+                action: nil
+            )    }
+    
+    
 
 
 }
@@ -92,7 +110,7 @@ extension WeatherViewController: WeatherManagerDelegate {
             print("action: search, city: \(cityNameValue)")
         }
     }
-    //画像の追加方法　いんぽーと方法
+
     //
     
     func failedWithError(error: Error){
@@ -121,3 +139,4 @@ extension WeatherViewController: CLLocationManagerDelegate {
         print(error)
     }
 }
+
