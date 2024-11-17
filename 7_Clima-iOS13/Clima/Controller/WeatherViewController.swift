@@ -85,9 +85,11 @@ extension WeatherViewController: WeatherManagerDelegate {
             self.conditionImageView.image = UIImage(systemName: weatherModel.conditionName)
             if cityLabel.text == "Tokyo" {
                 self.background.image = UIImage(named:"backgroundTokyo")
-                } else {
+            } else {
                 self.background.image = UIImage(named:"background")
             }
+            let cityNameValue = cityLabel.text!
+            print("action: search, city: \(cityNameValue)")
         }
     }
     //画像の追加方法　いんぽーと方法
