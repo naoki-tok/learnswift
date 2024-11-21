@@ -22,8 +22,6 @@ class WeatherViewController: UIViewController {
     @IBAction func favoriteView(_ sender: UIButton) {
         let vc = SecondViewController()
         navigationController?.pushViewController(vc, animated: true)
-        
-        
     }
     
     //MARK: Properties
@@ -37,14 +35,17 @@ class WeatherViewController: UIViewController {
         weatherManager.delegate = self
         searchField.delegate = self
         
-        
         //navigationバーの設定
         self.navigationItem.backBarButtonItem = UIBarButtonItem(
-                title:  " ",
-                style:  .plain,
-                target: nil,
-                action: nil
-            )    }
+            title:  " ",
+            style:  .plain,
+            target: nil,
+            action: nil
+        )
+        
+        
+        
+    }
     
     
 

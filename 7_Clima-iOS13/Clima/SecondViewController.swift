@@ -14,10 +14,11 @@ class SecondViewController: UIViewController {
         super.viewDidLoad()
         
         // Do any additional setup after loading the view.
-        self.navigationController!.title = "navTest"
+        self.navigationItem.title = "navTest"
+        self.navigationController?.navigationBar.isTranslucent = true
+        self.navigationController?.navigationBar.tintColor = UIColor.white;
         
-        
-             }
+    }
     
 
     /*
